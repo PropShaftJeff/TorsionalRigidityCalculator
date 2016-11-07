@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TorsionalRigidityCalculator.SolidRoundDrawing">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAABICAAgAACAAgAEAAgBQgAAAAAYAAAAFAAAA=</HashCode>
+      <FileName>DrawingClasses\SolidRoundDrawing.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TorsionalRigidityCalculator.ElementDrawing">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAABIAAAgAAAAAAAEAAAAAAAAAAAQAAAAEAAAA=</HashCode>
+      <FileName>DrawingClasses\ElementDrawing.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TorsionalRigidityCalculator.HollowRoundDrawing">
+    <Position X="3.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EBAAAAAoRYCBEoAEAAAgAEAAgDAAABAQA4AAAAFJAAA=</HashCode>
+      <FileName>DrawingClasses\HollowRoundDrawing.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TorsionalRigidityCalculator.ElementBase" Collapsed="true">
+    <Position X="7.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAAQABBAgAAAEAiAQCAAAQABAgAAAAQAAAAAIAAA=</HashCode>
+      <FileName>GeometryClasses\ElementBase.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TorsionalRigidityCalculator.SolidRoundElement">
+    <Position X="8.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQIAAAAAAAAEAAAEAAAAAgAAAAAAAQJAAYABAAA=</HashCode>
+      <FileName>GeometryClasses\SolidRoundElement.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TorsionalRigidityCalculator.HollowRoundElement">
+    <Position X="6.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgQACAAAAAABEAAAEAAKBAgAAAAAIAQJABYABAAE=</HashCode>
+      <FileName>GeometryClasses\HollowRoundElement.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TorsionalRigidityCalculator.RoundElement">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABIAIAAAAAAAAkEAAJIBgAAAAAABAIAAYAAAAA=</HashCode>
+      <FileName>GeometryClasses\RoundElement.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
